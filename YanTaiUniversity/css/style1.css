@@ -1,0 +1,338 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: none;
+}
+
+body {
+    font-family: 宋体;
+    background-color: #EEEEEE;
+    min-width: 1350px;
+    width:100%;
+}
+
+li {
+    list-style: none;
+}
+
+.cleanfix:after {
+    display: block;
+    content: "";
+    clear: both;
+}
+
+#head {
+    height: 107px;
+    background-image: url("../img/topBg.gif");
+}
+
+#topContent {
+    height: 100%;
+    width: 1018px;
+    margin: 0 auto;
+}
+
+#logo {
+    height: 100%;
+    width: 317px;
+    float: left;
+    background-image: url("../img/logo.jpg");
+}
+
+#nav {
+    height: 100%;
+    width: 701px;
+    float: left;
+}
+
+#search {
+    height: 72px;
+}
+
+#navList {
+    height: 35px;
+}
+
+#search img {
+    float: right;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#search input {
+    float: right;
+    margin-top: 26px;
+    margin-right: 60px;
+}
+
+#navList li {
+    list-style: none;
+    float: left;
+    width: 87.62px;
+    color: white;
+    text-align: center;
+    height: 35px;
+    line-height: 35px;
+}
+
+#navList .dropMenu {
+    width: 176px;
+    height: 0;
+    overflow: hidden;
+    transition: all 0.2s ease;
+    background-color: #264a6c;
+    position: absolute;
+    left: 0;
+    top: 35px;
+    font-size: 12px;
+}
+
+#banner {
+    height: 390px;
+}
+
+#navList > ul > li {
+    position: relative;
+}
+
+#navList > ul > li:hover {
+    background-color: #264a6c;
+}
+
+#navList > ul > li:hover .dropMenu {
+    height: auto;
+}
+
+#news {
+    width: 1018px;
+    height: 421px;
+    margin: 0 auto;
+    font-size: 12px;
+    box-sizing: border-box;
+    overflow: hidden;
+    background-color: white;
+}
+
+/*1018   994 */
+#area1, #area2, #area3, #area4, #area5, #area6 {
+    float: left;
+    border: 1px solid #b6b6b6;
+    box-sizing: border-box;
+}
+
+#area1, #area2, #area3 {
+    height: 272px;
+    margin-bottom: 12px;
+}
+
+#area4, #area5, #area6 {
+    height: 136px;
+}
+
+#area1, #area4 {
+    width: 393px;
+    margin-right: 12px;
+}
+
+#area4 ul li:hover {
+    background-color: white;
+}
+
+#area2, #area5 {
+    width: 300px;
+    margin-right: 12px;
+}
+
+#area3, #area6 {
+    width: 300px;
+}
+
+.tabs {
+    height: 29px;
+    background-color: #dadada;
+}
+
+.leftTab, .rightTab {
+    width: 80px;
+    height: 22px;
+    background-color: #254B6C;
+    float: left;
+    margin-top: 7px;
+    color: white;
+    text-align: center;
+    line-height: 22px;
+}
+
+.rightTab:hover {
+    width: 85px;
+    height: 26px;
+    margin-top: 3px;
+}
+
+.leftTab:hover {
+    width: 85px;
+    height: 26px;
+    margin-top: 3px;
+}
+
+.leftTab:hover ul {
+
+}
+
+.rightTab {
+    background-color: #8C1616;
+}
+
+.more {
+    float: right;
+    line-height: 29px;
+    padding-right: 20px;
+}
+
+.list li {
+    height: 34.7px;
+    line-height: 34.7px;
+    padding: 0 15px;
+    background-image: url("../img/icon1.gif");
+    background-repeat: no-repeat;
+    background-position: 7px 14px;
+
+}
+
+.list .item {
+    float: left;
+    width: 320px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.list .time {
+    float: right;
+}
+
+#area3 .item {
+    width: 220px;
+}
+
+#area2 img {
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+#area2bottom {
+    width: 286px;
+    height: 25px;
+    background-color: #aeaeae;
+    margin-left: 5px;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    line-height: 25px;
+}
+
+#area4 ul {
+    margin-top: 10px;
+}
+
+#area4 li {
+    width: 82px;
+    height: 25px;
+    background-color: #aeaeae;
+    margin: 8px 5px 5px 7px;
+    text-align: center;
+    line-height: 25px;
+    list-style: none;
+    float: left;
+
+}
+
+#area6 {
+    /*margin-left: 883px;
+    margin-top: -137px;*/
+}
+
+#area5le, #area5ri {
+    width: 139px;
+    height: 98px;
+    margin-left: 5px;
+    margin-top: 5px;
+    float: left;
+
+}
+
+#area5le span {
+    width: 140px;
+    height: 22px;
+    background-color: #aeaeae;
+    text-align: center;
+    line-height: 22px;
+    font-size: 14px;
+    float: left;
+}
+
+#area5ri span {
+    width: 140px;
+    height: 22px;
+    background-color: #aeaeae;
+    text-align: center;
+    line-height: 22px;
+    font-size: 14px;
+    float: left;
+}
+
+#area6 {
+    font-size: 12px;
+}
+
+table {
+    border: 0;
+    cellspacing: 0;
+    cellpadding: 0;
+    align: center;
+    margin-top: 15px;
+}
+
+#subm {
+    float: right;
+    width: 60px;
+
+}
+
+#submit {
+
+    width: 49px;
+    height: 23px;
+    /*background-image: url("img/denglu.jpg");*/
+}
+
+#foot {
+    background-color: #032F54;
+    width: 100%;
+    height: 170px;
+    overflow: hidden;
+}
+
+#footleft {
+    margin-top: 20px;
+    margin-left: 178px;
+    color: white;
+    float: left;
+    width: 290px;
+    font-size: 12px;
+}
+
+#footcenter {
+    color: white;
+    font-size: 12px;
+    float: left;
+    width:440px;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 230px;
+
+}

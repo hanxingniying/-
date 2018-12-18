@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+
+    <style>
+
+        li{
+            list-style: none;
+        }
+        .li1{
+            float: left;
+            background-color: black;
+            -webkit-transition: 1s;
+            width: 30px;
+        }
+        .li1:hover{
+            background-color: white;
+        }
+        .ul2{
+            height:0px;
+            overflow: hidden;
+            width: 60px;
+            -webkit-transition: 1s;
+        }
+        .li2{
+            width: 30px;
+            height: 20px;
+        }
+        .li1:hover .ul2{
+            height: 20px;
+            background-color: blue;
+        }
+        .li2{
+            list-style: none;
+            float: left;
+        }
+
+    </style>
+</head>
+<body>
+<ul>
+    <li class="li1">
+    23123
+    <ul class="ul2">
+        <li class="li2">sdasd</li>
+        <li class="li2">sdasdas</li>
+    </ul>
+    <li class="li1">
+        23123
+        <ul class="ul2">
+            <li class="li2">sdasd</li>
+            <li class="li2">sdasdas</li>
+        </ul>
+    </li>
+</li>
+</ul>
+</body>
+</html>

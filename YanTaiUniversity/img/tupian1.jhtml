@@ -1,0 +1,375 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<head>
+<title>烟台大学核装备与核工程学院成立  - 烟台大学</title>
+<meta content="烟台,大学,核,装备,核工程,学院,成立" http-equiv="keywords" />
+<meta content="" http-equiv="description" />
+<link href="/r/cms/www/red/css/index.css" rel="stylesheet" type="text/css"/>
+<script src="/r/cms/www/red/js/jquery-1.js" type="text/javascript"></script>
+<script src="/r/cms/www/red/js/script.js" type="text/javascript"></script>
+<link href="/r/cms/front.css" rel="stylesheet" type="text/css"/>
+<script src="/r/cms/jquery.js" type="text/javascript"></script>
+<script src="/r/cms/front.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(function() {
+Cms.attachment("","4624","0","attach");
+Cms.viewCount("","4624");
+Cms.siteFlow("", location.href, document.referrer);
+});
+</script>
+</head>
+<body onload="window.scrollTo((document.body.scrollWidth-document.body.offsetWidth)/2,0)">
+<div class="topBg gray">
+	<div class="w1018">
+    	<div class="logo"><a href="/"><img src="../../r/cms/www/red/img/logo.jpg" width="317" height="107" / style="border:0;"></a></div>
+        <div class="w701">
+        	<div class="topsearch">
+            	<table width="340" border="0" align="right" cellpadding="0" cellspacing="0" style="margin-top:25px;">
+                  <tr>
+                    <td>
+                    <form action="/search.jspx" target="_blank">
+                    <input class="ssBg" name="q" value="请输入关键词" type="text" onfocus="if(this.value=='请输入关键词')this.value=''" onblur="if(this.value=='')this.value='请输入关键词'" maxlength="50" autocomplete="off" />
+                    <input type="submit" class="ssMenu" value="" title="搜索"/ >
+                    </form>
+                    </td>
+                    <td>&nbsp;</td>
+                    <td>
+                        <a href="http://weibo.com/ytu2014" target="_blank" title="烟大新浪官方微博">
+                        <div class="sinaweibo"></div>
+                        </a>
+						<!--
+                        <a href="http://e.t.qq.com/ytu2014" target="_blank" title="烟大腾讯官方微博">
+                        <div class="qqweibo"></div>
+                        </a>
+                       -->
+						<a href="#" onclick="EV_modeAlert('envon')">
+                        <div class="weixin"></div>
+                        </a>
+                        
+                        <div id="envon" style=" width:300px; height:200px; background-color:#FFFFFF; display:none;">  
+                            <a href="javascript:EV_closeAlert()"><img src="../../r/cms/www/red/img/close.png" width="30" height="30" / style="position:absolute; right:-10px; top:-10px;"></a>
+                            <p style="text-align:center; margin-top:0px;"><img src="../../r/cms/www/red/img/ydwx.jpg" width="300" height="300" /></p>
+                            <div style="position:absolute; left:0; top:-20px; color:#ffffff;">烟台大学官方微信</div>
+                        </div>
+                        <script language="JavaScript" type="text/javascript">
+						var EV_MsgBox_ID=""; //重要  
+						  
+						//弹出对话窗口(msgID-要显示的div的id)  
+						function EV_modeAlert(msgID){  
+							//创建大大的背景框  
+							var bgObj=document.createElement("div");  
+							bgObj.setAttribute('id','EV_bgModeAlertDiv');  
+							document.body.appendChild(bgObj);  
+							//背景框满窗口显示  
+							EV_Show_bgDiv();  
+							//把要显示的div居中显示  
+							EV_MsgBox_ID=msgID;  
+							EV_Show_msgDiv();  
+						}  
+						  
+						//关闭对话窗口  
+						function EV_closeAlert(){  
+							var msgObj=document.getElementById(EV_MsgBox_ID);  
+							var bgObj=document.getElementById("EV_bgModeAlertDiv");  
+							msgObj.style.display="none";  
+							document.body.removeChild(bgObj);  
+							EV_MsgBox_ID="";  
+						}  
+						  
+						//窗口大小改变时更正显示大小和位置  
+						window.onresize=function(){  
+							if (EV_MsgBox_ID.length>0){  
+								EV_Show_bgDiv();  
+								EV_Show_msgDiv();  
+							}  
+						}  
+						  
+						//窗口滚动条拖动时更正显示大小和位置  
+						window.onscroll=function(){  
+							if (EV_MsgBox_ID.length>0){  
+								EV_Show_bgDiv();  
+								EV_Show_msgDiv();  
+							}  
+						}  
+						  
+						//把要显示的div居中显示  
+						function EV_Show_msgDiv(){  
+							var msgObj   = document.getElementById(EV_MsgBox_ID);  
+							msgObj.style.display  = "block";  
+							var msgWidth = msgObj.scrollWidth;  
+							var msgHeight= msgObj.scrollHeight;  
+							var bgTop=EV_myScrollTop();  
+							var bgLeft=EV_myScrollLeft();  
+							var bgWidth=EV_myClientWidth();  
+							var bgHeight=EV_myClientHeight();  
+							var msgTop=bgTop+Math.round((bgHeight-msgHeight)/2);  
+							var msgLeft=bgLeft+Math.round((bgWidth-msgWidth)/2);  
+							msgObj.style.position = "absolute";  
+							msgObj.style.top      = msgTop+"px";  
+							msgObj.style.left     = msgLeft+"px";  
+							msgObj.style.zIndex   = "10001";  
+							  
+						}  
+						//背景框满窗口显示  
+						function EV_Show_bgDiv(){  
+							var bgObj=document.getElementById("EV_bgModeAlertDiv");  
+							var bgWidth=EV_myClientWidth();  
+							var bgHeight=EV_myClientHeight();  
+							var bgTop=EV_myScrollTop();  
+							var bgLeft=EV_myScrollLeft();  
+							bgObj.style.position   = "absolute";  
+							bgObj.style.top        = bgTop+"px";  
+							bgObj.style.left       = bgLeft+"px";  
+							bgObj.style.width      = bgWidth + "px";  
+							bgObj.style.height     = bgHeight + "px";  
+							bgObj.style.zIndex     = "10000";  
+							bgObj.style.background = "#000";  
+							bgObj.style.filter     = "progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=80,finishOpacity=80);";  
+							bgObj.style.opacity    = "0.8";  
+						}  
+						//网页被卷去的上高度  
+						function EV_myScrollTop(){  
+							var n=window.pageYOffset   
+							|| document.documentElement.scrollTop   
+							|| document.body.scrollTop || 0;  
+							return n;  
+						}  
+						//网页被卷去的左宽度  
+						function EV_myScrollLeft(){  
+							var n=window.pageXOffset   
+							|| document.documentElement.scrollLeft   
+							|| document.body.scrollLeft || 0;  
+							return n;  
+						}  
+						//网页可见区域宽  
+						function EV_myClientWidth(){  
+							var n=document.documentElement.clientWidth   
+							|| document.body.clientWidth || 0;  
+							return n;  
+						}  
+						//网页可见区域高  
+						function EV_myClientHeight(){  
+							var n=document.documentElement.clientHeight   
+							|| document.body.clientHeight || 0;  
+							return n;  
+						}  
+						</script>
+                        
+                    </td>
+                  </tr>
+                </table>
+
+        </div>
+            
+            <div class="header">
+                <div class="menu">
+                    <ul class="menu-list">
+                        <li 
+                        
+                        
+                        > 
+                        <a href="http://xcb.ytu.edu.cn/" target="_blank"><span>烟大新闻</span></a> 
+                        </li>
+                        <li 
+                        
+                        
+                        > 
+                        <a href="/xxjj/index.jhtml" ><span>学校概况</span></a> 
+                        <ul style="display: none;" class="menu-sublist">
+                        <li class="menu-sublist-li1"><a href="http://www.ytu.edu.cn:80/xxjj.jhtml" target="_blank">学校简介</a></li>
+                        <li ><a href="http://www.ytu.edu.cn:80/lrld.jhtml" target="_blank">历任领导</a></li>
+                        <li ><a href="http://www.ytu.edu.cn:80/xrld.jhtml" target="_blank">现任领导</a></li>
+                        <li ><a href="http://www.ytu.edu.cn:80/szdw.jhtml" target="_blank">师资队伍</a></li>
+                        <li ><a href="http://www.ytu.edu.cn:80/xyfj/index.jhtml" target="_blank">校园风景</a></li>
+                        <li ><a href="http://www.ytu.edu.cn:80/zzjg.jhtml" target="_blank">组织机构</a></li>
+                        </ul>
+                        </li>
+                        <li 
+                        
+                        
+                        > 
+                        <a href="http://www.ytu.edu.cn:80/xysz.jhtml" ><span>学院设置</span></a> 
+                        </li>
+                        <li 
+                        
+                        
+                        > 
+                        <a href="/bksjy.jhtml" ><span>人才培养</span></a> 
+                        <ul style="display: none;" class="menu-sublist">
+                        <li class="menu-sublist-li1"><a href="http://www.ytu.edu.cn:80/bksjy.jhtml" target="_blank">本科生教育</a></li>
+                        <li ><a href="http://www.ytu.edu.cn:80/yjsjy.jhtml" target="_blank">研究生教育</a></li>
+                        <li ><a href="http://www.ytu.edu.cn:80/lxsjy.jhtml" target="_blank">留学生教育</a></li>
+                        <li ><a href="http://www.ytu.edu.cn:80/jxjy.jhtml" target="_blank">继续教育</a></li>
+                        </ul>
+                        </li>
+                        <li 
+                        
+                        
+                        > 
+                        <a href="#" ><span>科学研究</span></a> 
+                        <ul style="display: none;" class="menu-sublist">
+                        <li class="menu-sublist-li1"><a href="http://kyc.ytu.edu.cn/" target="_blank">社科(科技)处</a></li>
+                        <li ><a href="http://yjs.ytu.edu.cn/" target="_blank">研究生处</a></li>
+                        <li ><a href="http://kyc.ytu.edu.cn/kjkf/" target="_blank">服务地方网</a></li>
+                        <li ><a href="http://xuebao.ytu.edu.cn/" target="_blank">烟大学报</a></li>
+                        </ul>
+                        </li>
+                        <li 
+                        
+                        
+                        > 
+                        <a href="#" ><span>学生工作</span></a> 
+                        <ul style="display: none;" class="menu-sublist">
+                        <li class="menu-sublist-li1"><a href="http://stu.ytu.edu.cn/" target="_blank">学生工作处</a></li>
+                        <li ><a href="http://youth.ytu.edu.cn" target="_blank">校团委</a></li>
+                        <li ><a href="http://xygh.ytu.edu.cn/" target="_blank">学业规划网</a></li>
+                        <li ><a href="http://zxzx.ytu.edu.cn/" target="_blank">助学在线</a></li>
+                        <li ><a href="http://spirit.ytu.edu.cn/" target="_blank">心理咨询网</a></li>
+                        <li ><a href="http://ydmy.ytu.edu.cn/" target="_blank">烟大美育网</a></li>
+                        </ul>
+                        </li>
+                        <li 
+                        
+                        
+                        > 
+                        <a href="#" ><span>招生就业</span></a> 
+                        <ul style="display: none;" class="menu-sublist">
+                        <li class="menu-sublist-li1"><a href="http://202.194.116.158/zb/" target="_blank">本科生招生</a></li>
+                        <li ><a href="http://yjs.ytu.edu.cn/col-zs-welcome.html" target="_blank">研究生招生</a></li>
+                        <li ><a href="http://isc.ytu.edu.cn/" target="_blank">留学生招生</a></li>
+                        <li ><a href="http://cjc.ytu.edu.cn/html/zsxx/" target="_blank">继续教育招生</a></li>
+                        <li ><a href="http://career.ytu.edu.cn/" target="_blank">就业信息网</a></li>
+                        <li ><a href="http://liuxuekorea.ytu.edu.cn/" target="_blank">出国留学</a></li>
+                        </ul>
+                        </li>
+                        <li 
+                        
+                        
+                        > 
+                        <a href="http://www.ytu.edu.cn:80/ggfw.jhtml" ><span>公共服务</span></a> 
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="tpbh">
+<script language="JavaScript">
+a = 3 //最大随机数（图片总数）
+var pp = Math.random();
+var foot = Math.round(pp * (a-1))+1;
+function create() {
+this.src = ''
+this.alt = ''
+}
+b = new Array()
+for(var i=1; i<=a; i++) { b[i] = new create() }
+b[1].src    = "http://www.ytu.edu.cn/r/cms/www/red/img/nybanner1.jpg"
+b[1].alt    = "PS1"
+b[2].src    = "http://www.ytu.edu.cn/r/cms/www/red/img/nybanner2.jpg"
+b[2].alt    = "PS2"
+b[3].src    = "http://www.ytu.edu.cn/r/cms/www/red/img/nybanner3.jpg"
+b[3].alt    = "PS3"
+
+var pic = "";
+pic += '<img src='+b[foot].src+' border="1"'+' alt='+b[foot].alt+'>';
+document.write(pic)
+</script>
+</div><div class="xwlmCon">
+	<div class="line1">
+	</div>
+    <div class="w1002">
+    	<div class="w186">
+        	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td>
+                <div class="leftlmBG">
+                    <div class="leftlmtitle">新闻公告</div>
+                </div>
+                <div class="clear"></div>
+                    <div class="leftstep">
+                        <ul>
+                            <li><a href="http://www.ytu.edu.cn:80/xxyw/index.jhtml"  class="stepBghover"  target="_blank">学校要闻</a></li>
+                            <li><a href="http://www.ytu.edu.cn:80/xyjx/index.jhtml"  target="_blank">学院简讯</a></li>
+                            <li><a href="http://www.ytu.edu.cn:80/tzgg/index.jhtml"  target="_blank">通知公告</a></li>
+                            <li><a href="http://www.ytu.edu.cn:80/xsdt/index.jhtml"  target="_blank">学术动态</a></li>
+                        </ul>
+                    </div>
+                </td>
+              </tr>
+            </table>
+        </div>
+        <!-- 右栏_begin -->
+        <div class="w802">
+            <div class="website">
+                <span style="float:left;">当前位置：<a target="_blank" href="http://www.ytu.edu.cn:80/xwgg/index.jhtml">新闻公告</a> >> <a target="_blank" href="http://www.ytu.edu.cn:80/xxyw/index.jhtml">学校要闻</a> >> 正文</span>
+                <span style="float:right; padding-right:10px;"><a href="/">返回首页</a></span>
+            </div>
+            <div style=" background:#fdfdfd; width:100%;">
+            	<table width="95%" border="0" cellspacing="0" cellpadding="0" style="margin:auto; padding-top:20px; padding-bottom:20px;">
+                  <tr>
+                    <td>
+                    <div class="newsTex">
+                        <h1>烟台大学核装备与核工程学院成立 </h1>
+                        <div class="msgbar">发布时间： 2018-07-18 17:48:31 &nbsp; 作者：核装备与核工程学院（摄影 袁兆军） &nbsp; 来源： 核装备与核工程学院 &nbsp; 浏览次数：<span id="views"></span>
+                        </div>
+                        
+                        <div class="newsCon"><p style="text-align: center;"><img alt="" src="/u/cms/www/201807/181923316w25.jpg" style="width: 700px; height: 475px;" /></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img alt="" src="/u/cms/www/201807/181923392giw.jpg" style="width: 700px; height: 467px;" /></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img alt="" src="/u/cms/www/201807/18192350ls7o.jpg" style="width: 700px; height: 466px;" /></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img alt="" src="/u/cms/www/201807/18192359aftq.jpg" /></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img alt="" src="/u/cms/www/201807/18192408kuqh.jpg" style="width: 700px; height: 467px;" /></p>
+<p style="text-align: center;">&nbsp; &nbsp;&nbsp;</p>
+<p>&nbsp; &nbsp; 7月18日上午，烟台大学核装备与核工程学院成立大会暨授牌仪式在弘毅厅举行。烟台市人民政府副市长金志海，台海集团总裁赵博鸿，烟台大学党委书记张伟，党委副书记、校长郭善利，来自北京大学、清华大学、上海交通大学等高校的专家学者出席大会并在主席台就坐。台海集团领导、烟台大学领导、烟台市相关部门领导及企业代表出席会议，学校各单位负责人及核装备与核工程学院600余名师生参加会议。会议由党委副书记张殿臣主持。</p>
+<p>&nbsp;&nbsp;&nbsp; 伴随雄壮的国歌，大会正式开幕。副校长宋中民、王强分别宣读了中国共产党烟台大学核装备与核工程学院总支部委员会成立及干部任命文件、核装备与核工程学院成立及干部任命文件。校长郭善利表示，烟台大学将与台海集团一道，紧紧围绕核装备与核工程领域进行校企合作，为服务区域战略产业创新驱动发展作出应有贡献。针对核装备与核工程学院的发展，郭善利提出三点希望：一要牢记初心使命，主动融入国家和省市发展需求；二要坚持高点定位，高水平发展，团结带领教职员工完成发展目标任务；三要抓住发展机遇，投身相关产业发展。台海集团总裁赵博鸿表示，台海集团将与学校和社会各界人士一道，把烟台大学核装备与核工程学院建设成世界一流的国际核能学院，与世界接轨，提升我国高端装备制造水平。副市长金志海希望烟台大学与台海集团实现互惠双赢，推动学院和研究院高质量发展；希望双方积极探索，为烟台市加快国家级核电研发中心建设、助力新旧动能转换提供强有力的支持。烟台市副市长金志海、烟台大学党委书记张伟共同为核装备与核工程学院授牌。</p>
+<p>&nbsp;&nbsp;&nbsp; 成立大会上，台海集团副总裁方玉诚、台海集团玛努尔高温合金有限公司总经理叶国蔚代表台海集团向核装备与核工程学院捐赠50万元发展基金。核装备与核工程学院院长刘仲礼、教师代表赵相金、学生代表孙佳坤先后发言，表达了建设好、发展好学院的信心与决心。</p>
+<p>&nbsp;&nbsp;&nbsp; 成立大会结束后，举行了核装备与核工程学院发展论坛，核装备与核工程学院全体同学聆听了台海集团副总裁方玉诚、北京大学付恩刚研究员的精彩报告。下一步，核装备与核工程学院将努力为烟台市加快建设国家级核电研发中心、打造世界一流的装备制造业强市提供强有力的支持，为地方新旧动能转换重大工程建设和经济社会发展作出贡献。</p>
+<p>&nbsp;&nbsp;&nbsp; 来稿时间：7月18日</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img alt="" src="/u/cms/www/201807/181924241xes.jpg" style="width: 700px; height: 478px;" /></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img alt="" src="/u/cms/www/201807/181924473kyt.jpg" style="width: 700px; height: 467px;" /></p>
+</div>
+                        <div>
+                        </div>
+                        <div class="pagebar"></div>
+                        
+                    </div>
+                    </td>
+                  </tr>
+                </table>
+            </div>
+        </div>
+        <!-- 右栏_end -->
+    </div>
+</div>
+<div class="clear10"></div>
+﻿<div class="footBg gray">
+	<div class="w1018">
+        <div class="footleft">
+        	
+            <a href="/wzdt/index.jhtml">网站地图</a>
+            <a href="http://en.ytu.edu.cn/">English</a>
+        </div>
+        
+        <div class="footright">
+        
+            校址：中国山东省烟台市莱山区清泉路30号&nbsp;&nbsp;邮编：264005&nbsp;&nbsp;<a href="mailto:nicstaff@ytu.edu.cn" target="_blank">管理员信箱</a><br />
+            鲁ICP备05002387号-3&nbsp;<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37061302000289"><img src="../../r/cms/www/red/img/ba.png" valign="middle"/>&nbsp;鲁公网安备 37061302000289号</a>
+			<br>
+        </div>
+        <div class="clear10"></div>
+        <div class="footcenter">
+		<!--
+		<a href="http://bszs.conac.cn/sitename?method=show&amp;id=072BDD1BF097324EE053022819ACFF5E"><img src="../../r/cms/www/red/img/blue.png" width="80" height="80" /></a>
+		-->
+		<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/16/000/0000/60420757/CA160000000604207570001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>	
+    </div>    
+</div></body>
+</html>
